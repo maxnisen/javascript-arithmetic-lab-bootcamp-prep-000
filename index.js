@@ -24,6 +24,6 @@ function makeInt(n){
     return n
 }
 function makeInt('0x2328'){
-  parseInt(n)
+  parseInt(n,10)
     return n
 }
