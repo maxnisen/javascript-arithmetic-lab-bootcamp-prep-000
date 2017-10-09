@@ -25,5 +25,5 @@ function makeInt(n){
 }
 function makeInt('0.2328'){
   parseInt(n,10)
-    return n
+    return 0
 }
