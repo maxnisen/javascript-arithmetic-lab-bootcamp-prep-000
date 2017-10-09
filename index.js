@@ -23,7 +23,4 @@ function makeInt(n){
   parseInt(n, 10)
     return n
 }
-function makeInt(0x2328){
-  parseInt(n,10)
-    return n
-}
+
