@@ -29,7 +29,7 @@ function preserveDecimal(n){
   return n
 }
 
-function preserveDecimal('2.222'){
+function preserveDecimal(n){
   parseFloat(n)
   return n
 }
